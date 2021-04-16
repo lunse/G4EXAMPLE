@@ -1,0 +1,6 @@
+#/run/initialize
+/gps/particle neutron
+/gps/ang/type iso
+/gps/position 0. 0. -1. cm
+/gps/energy 0.025 eV
+/run/beamOn 1000
