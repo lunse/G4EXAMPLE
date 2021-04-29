@@ -3,4 +3,4 @@
 /gps/ang/type iso
 /gps/position 0. 0. -1. cm
 /gps/energy 1.33 MeV
-/run/beamOn 1000
+/run/beamOn 100000
